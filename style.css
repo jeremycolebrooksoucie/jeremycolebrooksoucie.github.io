@@ -10,6 +10,16 @@ h1 {
 }
 
 p {
-	font-size: 10px;
-	color: blue;
+	color: black;
+}
+
+.subtitle {
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+
+.bolded {
+	font-weight: bold;
+
 }
