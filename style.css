@@ -1,0 +1,15 @@
+/* A simple stylesheet */
+
+body {
+	background-color: gray;
+}
+
+h1 {
+	color:white;
+	padding: 25px;
+}
+
+p {
+	font-size: 10px;
+	color: blue;
+}
