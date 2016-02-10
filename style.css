@@ -1,4 +1,4 @@
-/* A simple stylesheet */
+/* stylesheet for Jeremy's resume website */
 
 body {
 	background-color: tan;
@@ -20,7 +20,6 @@ h2 {
 
 p {
 	color: black;
-	//display:inline;
 	margin: 0em;
 }
 
