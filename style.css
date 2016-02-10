@@ -48,5 +48,13 @@ hr {
 #resume {
 	outline-style: solid;
 	padding: 10px;
+	width: 600px;
+
+}
+
+#bio {
+	outline-style: solid;
+	padding: 10px;
+	width: 600px;
 
 }
