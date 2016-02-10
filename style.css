@@ -1,16 +1,32 @@
 /* A simple stylesheet */
 
 body {
-	background-color: gray;
+	background-color: tan;
+	padding: 25px;
+	
 }
 
 h1 {
-	color:white;
+	color:black;
 	padding: 25px;
+}
+
+h2 {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+
 }
 
 p {
 	color: black;
+	//display:inline;
+	margin: 0em;
+}
+
+hr {
+	border: 1px solid;
+
 }
 
 .subtitle {
@@ -19,7 +35,18 @@ p {
 
 }
 
-.bolded {
+.bold {
 	font-weight: bold;
+
+}
+
+.italics {
+	font-style: italic;
+
+}
+
+#resume {
+	outline-style: solid;
+	padding: 10px;
 
 }
